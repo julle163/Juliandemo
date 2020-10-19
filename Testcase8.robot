@@ -32,7 +32,7 @@ LogInToApp
     click link  xpath://*[@id="header"]/div[2]/div/div/nav/div[1]/a
     Sleep  2
     input text  //*[@id="email"]    jullelito@hotmail.com
-    input text  //*[@id="passwd"]   bynblock163
+    input text  //*[@id="passwd"]   ***********
 Shipping
     sleep   2
     click element  //*[@id="homefeatured"]/li[1]/div/div[2]/div[2]/a[1]
